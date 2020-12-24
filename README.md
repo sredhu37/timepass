@@ -1,6 +1,13 @@
+# Contribution guidelines
+
+Please create a separate branch with the changes and create a pull request.
+
 # Farmer's Protests 2020-2021
 
-* This letter is the proof that the Govt. doesn't know or doesn't want to know why Farmers are protesting.
+
+## https://pib.gov.in/PressReleasePage.aspx?PRID=1681745
+
+This letter is the proof that the Govt. doesn't know or doesn't want to know why Farmers are protesting.
 
 | Myth | Truth | Actual Truth/Ground Reality |
 | --- | --- | --- |
@@ -21,18 +28,15 @@
 | NA | By hiding behind Annadata of the country, they are forcing to set free the accused of riots and accused involved in spreading violence immediately. | Farmers are asking for release of farmers arrested because they were burning the crops which is a crime according to these new laws. They are not accused of riots. And there is a difference between Protests and Riots. |
 
 
-## What farmers actually want:
+### What farmers actually want:
+
 1. Government has accepted that out of 15 points, 12 have issues. Then just revert the laws and create new ones after having proper discussions with Farmer Unions.
 2. MSP should be a law: Farmers from Punjab and Haryana have been getting MSP rates. They want that farmers from the whole nation should be getting those rates, so that they can't be exploited anymore.
 3. If possible, implement the Swaminathan report.
 
 
-## My observation:
+### My observation:
+
 * This letter is more focused on blaming the opposition rather than listening to what Farmers want.
 * Farmers don't care about BJP, congress or AAP. They are more focused on their own livelihood which is at risk due to these new laws.
 * I don't know whether privatization of Agriculture sector is good for India or not, but for sure it's not good for farmers. And that's the reason farmers are protesting.
-
-
-# Contribution guidelines
-
-Please create a separate branch with the changes and create a pull request.
