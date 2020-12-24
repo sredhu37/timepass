@@ -31,3 +31,8 @@
 * This letter is more focused on blaming the opposition rather than listening to what Farmers want.
 * Farmers don't care about BJP, congress or AAP. They are more focused on their own livelihood which is at risk due to these new laws.
 * I don't know whether privatization of Agriculture sector is good for India or not, but for sure it's not good for farmers. And that's the reason farmers are protesting.
+
+
+# Contribution guidelines
+
+Please create a separate branch with the changes and create a pull request.
